@@ -1,2 +1,4 @@
 spotify_keys.json
+.cache-*
+/.ipynb_checkpoints
 /venv
